@@ -13,7 +13,7 @@
   </strong>
   <br><br>
 
-  Разбор алгоритмов и задач Проекта Эйлера · LeetCode · CodeRun
+  Разбор алгоритмов и задач Project Euler · LeetCode · CodeRun
   <br><br><br>
 
   ТГК:
