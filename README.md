@@ -9,7 +9,7 @@
       srcset="https://github.com/user-attachments/assets/75cff35b-aa2c-44fd-8dea-d909f38ecc22"
     />
     <img
-      src="https://github.com/user-attachments/assets/096c8377-3f78-460b-a40a-d38b6a995fed"
+      src="https://github.com/user-attachments/assets/75cff35b-aa2c-44fd-8dea-d909f38ecc22"
       width="275"
       align="left"
     />
