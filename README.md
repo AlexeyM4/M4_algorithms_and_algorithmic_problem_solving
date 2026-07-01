@@ -2,14 +2,14 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github.com/user-attachments/assets/5e62692d-2740-4126-a7dc-cf7cc643fe66"
+      srcset="Sources/Dark_logo_for_readme.png"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://github.com/user-attachments/assets/75cff35b-aa2c-44fd-8dea-d909f38ecc22"
+      srcset="Sources/Logo_for_readme.png"
     />
     <img
-      src="https://github.com/user-attachments/assets/75cff35b-aa2c-44fd-8dea-d909f38ecc22"
+      src="Sources/Logo_for_readme.png"
       width="275"
       align="left"
     />
